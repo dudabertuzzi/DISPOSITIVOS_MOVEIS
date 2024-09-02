@@ -45,7 +45,7 @@ XML:
 
 KOTLIN:
 
-package com.example.currencyconverter
+package com.example.primeiroprojetoandroid
 
 import android.os.Bundle
 import android.widget.Button
