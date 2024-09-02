@@ -41,7 +41,7 @@ XML:
 
 KOTLIN:
 
-package com.example.tipcalculator
+package com.example.primeiroprojetoandroid
 
 import android.os.Bundle
 import android.widget.Button
